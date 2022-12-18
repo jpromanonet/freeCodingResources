@@ -1,6 +1,6 @@
 export default [
    {
-      year: 'Today',
+      step: 'Today',
       title: 'YouTube Content Creator',
       duration: '6 years',
       details: 
