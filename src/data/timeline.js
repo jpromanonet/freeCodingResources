@@ -1,9 +1,9 @@
 export default [
    {
-      step: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
+      step: '1°',
+      title: 'Fundamentos de programación',
+      duration: '1 Mes',
       details: 
-         'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
+         'Algo va a aca',
    },
 ]

@@ -10,6 +10,9 @@ function Intro() {
             <br />
             <br />
             Algunos de los recursos extienden certificaciones para agregar a tu CV y otros no, pero lo fundamental es que indistintamente de los recursos podamos llevarnos ejercicios y proyectos terminados que nos ayuden a practicar.
+            <br />
+            <br />
+            Te recomiendo seguir el "Mapa de ruta sugerido" pero si no te sentis comode, arranca por donde más te llame la atención o te genere más curiosidad.
          </p>
       </div>
    )
