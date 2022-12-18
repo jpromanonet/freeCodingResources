@@ -7,9 +7,9 @@ export default [
    },
    {
       title: 'Recurso 02',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      imgUrl: '/assets/ania.png',
       stack: ['React', 'JavaScript', 'HTML', 'CSS', 'Node.js', 'Tutorials'],
-      link: 'https://theodinproject.org',
+      link: 'https://https://www.youtube.com/@AniaKubow',
    },
    {
       title: 'AI Nerf Gun',
