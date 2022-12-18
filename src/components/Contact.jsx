@@ -10,7 +10,7 @@ function Contact() {
                method="POST"
                className="flex flex-col w-full"
             >
-               <Title>Contact</Title>
+               <Title>Contacto</Title>
                <input
                   type="text"
                   name="name"
@@ -33,7 +33,7 @@ function Contact() {
                   type="button"
                   className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
                >
-                  Work With Me
+                  Enviar
                </button>
             </form>
          </div>
