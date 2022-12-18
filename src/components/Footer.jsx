@@ -36,6 +36,7 @@ function Footer() {
 							</a>
 							<a 
 								href="https://github.com/jpromanonet"
+								target="_blank"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								xmlns="http://www.w3.org/2000/svg"
