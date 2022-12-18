@@ -4,11 +4,11 @@ import Title from './Title';
 function Contact() {
    return (
       <div className="flex flex-col mb-10 mx-auto">
-         <div className="flex justify-center items-center">
+         <div className="flex justify-left items-center">
             <form
                action="https://getform.io/f/(customSlugHere)"
                method="POST"
-               className="flex flex-col w-full md:w-7/12"
+               className="flex flex-col w-full"
             >
                <Title>Contact</Title>
                <input
