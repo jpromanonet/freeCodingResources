@@ -10,7 +10,7 @@ function Timeline() {
             <Title>Mapa de ruta sugerido</Title>
             {timeline.map(item => (
                <TimelineItem 
-                  year={item.year}
+                  year={item.step}
                   title={item.title}
                   duration={item.duration}
                   details={item.details}
