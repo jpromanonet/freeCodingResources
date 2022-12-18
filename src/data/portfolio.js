@@ -1,12 +1,12 @@
 export default [
    {
-      title: 'Terminal Website',
+      title: 'Recurso 01',
       imgUrl: '/assets/terminal-website.jpg',
       stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      link: 'https://freecodecamp',
    },
    {
-      title: 'Developer Portfolio',
+      title: 'Recurso 02',
       imgUrl: '/assets/dev-portfolio.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
       link: 'https://thehackershideout.com',
