@@ -1,6 +1,6 @@
 export default [
    {
-      title: 'Recurso 01',
+      title: 'Free Code Camp',
       imgUrl: '/assets/freecodecamp.png',
       stack: ['HTML', 'CSS', 'JavaScript'],
       link: 'https://freecodecamp',
