@@ -34,4 +34,11 @@ export default [
       stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'Everything about tech'],
       link: 'https://www.codegym.cc',
    },
+   {
+      title: 'Teach yourself CS',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/teachyourselfcs.png',
+      stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'Everything about tech'],
+      link: 'https://www.codegym.cc',
+   },
 ]
