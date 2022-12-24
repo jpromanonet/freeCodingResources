@@ -23,8 +23,8 @@ export default [
    {
       title: 'Code Gym',
       cert: 'Sin certificación',
-      imgUrl: '/assets/sololearn.png',
+      imgUrl: '/assets/codegym.png',
       stack: ['Java'],
-      link: 'https://www.codegym.com',
+      link: 'https://www.codegym.cc',
    },
 ]
