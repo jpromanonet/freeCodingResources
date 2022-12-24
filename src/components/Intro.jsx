@@ -6,7 +6,7 @@ function Intro() {
          <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-6 font-bold">Lista de recursos</h1>
          <p className="text-base md:text-xl mb-3 font-medium">Aprende a programar gratis y de forma autodidacta</p>
          <p className="text-m w-full mb-6 font-bold">
-            La lista autodidacta, es eso una lista super simple de recursos gratis (sitios web, libros, tutoriales, etc) para aprender a programar gratis y de forma audidacta.
+            Lista super simple de recursos gratis (sitios web, libros, tutoriales, etc) para aprender a programar gratis y de forma audidacta.
             <br />
             <br />
             Algunos de los recursos extienden certificaciones para agregar a tu CV y otros no, pero lo fundamental es que indistintamente de los recursos podamos llevarnos ejercicios y proyectos terminados que nos ayuden a practicar.
