@@ -61,7 +61,7 @@ function Footer() {
 					</div>
 				</div>
 			<p className="text-sm mt-2  opacity-50">
-				&copy; {new Date().getFullYear()}  Juan P. Romano. Non rights reserved, steal it and be happy.
+				&copy; {new Date().getFullYear()}  Juan P. Romano. ningun derecho reservador, robalo y se feliz.
 			</p>
 		</div>
 	);
