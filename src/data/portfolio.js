@@ -38,7 +38,7 @@ export default [
       title: 'Teach yourself CS',
       cert: 'Sin certificación',
       imgUrl: '/assets/teachyourselfcs.png',
-      stack: ['Programming', 'Computer Architecture'],
+      stack: ['Programming', 'CS Architecture'],
       link: 'https://www.teachyourselfcs.com',
    },
 ]
