@@ -14,7 +14,7 @@ function Contact() {
                <input
                   type="text"
                   name="name"
-                  placeholder="Name"
+                  placeholder="Nombre"
                   className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
                />
                <input
@@ -25,7 +25,7 @@ function Contact() {
                />
                <textarea
                   name="message"
-                  placeholder="Message"
+                  placeholder="Mensaje"
                   rows="10"
                   className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
                />
