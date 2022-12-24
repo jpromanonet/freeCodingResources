@@ -44,8 +44,8 @@ export default [
    {
       title: 'Automating the boring stuff with Python',
       cert: 'Sin certificación',
-      imgUrl: '/assets/teachyourselfcs.png',
-      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy'],
-      link: 'https://www.teachyourselfcs.com',
+      imgUrl: '/assets/automatingwithpython.png',
+      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
+      link: 'https://automatetheboringstuff.com/',
    },
 ]
