@@ -41,4 +41,11 @@ export default [
       stack: ['Programming', 'CS Architecture', 'Algorithms', 'Data Structures', 'Math for CS', 'Operating Systems', 'Databases', 'Networking', 'Languages', 'Compilers', 'Distributed Systems'],
       link: 'https://www.teachyourselfcs.com',
    },
+   {
+      title: 'Automating the boring stuff with Python',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/teachyourselfcs.png',
+      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy'],
+      link: 'https://www.teachyourselfcs.com',
+   },
 ]
