@@ -39,6 +39,6 @@ export default [
       cert: 'Sin certificación',
       imgUrl: '/assets/teachyourselfcs.png',
       stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'Everything about tech'],
-      link: 'https://www.codegym.cc',
+      link: 'https://www.teachyourselfcs.com',
    },
 ]
