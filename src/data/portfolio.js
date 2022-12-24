@@ -2,7 +2,7 @@ export default [
    {
       title: 'Free Code Camp',
       imgUrl: '/assets/freecodecamp.png',
-      stack: ['HTML', 'CSS', 'JavaScript', 'React JS'],
+      stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS'],
       link: 'https://freecodecamp',
    },
    {
