@@ -13,4 +13,18 @@ export default [
       stack: ['Ruby On Rails', 'JavaScript', 'HTML', 'CSS', 'Git', 'Shell'],
       link: 'https://www.theodinproject.com',
    },
+   {
+      title: 'Sololearn',
+      cert: 'Con certificación',
+      imgUrl: '/assets/sololearn.png',
+      stack: ['JavaScript', 'HTML', 'CSS', 'C#', 'PHP', 'C++', 'C', 'R', 'Go', 'SQL','Python', 'Java', 'React', 'Redux', 'Machine Learning','Mobile Apps', 'Video Games'],
+      link: 'https://www.sololearn.com',
+   },
+   {
+      title: 'Code Gym',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/sololearn.png',
+      stack: ['Java'],
+      link: 'https://www.codegym.com',
+   },
 ]
