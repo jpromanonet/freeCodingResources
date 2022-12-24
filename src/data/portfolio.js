@@ -27,7 +27,6 @@ export default [
       stack: ['Java', 'JVM', 'JWS', 'JSP', 'T-SQL'],
       link: 'https://www.codegym.cc',
    },
-
    {
       title: 'Free Code Camp (Youtube)',
       cert: 'Sin certificación',
