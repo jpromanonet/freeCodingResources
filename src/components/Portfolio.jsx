@@ -16,7 +16,6 @@ function Portfolio() {
             ))}
          </div>
       </div>
-      <hr>
    )
 }
 
