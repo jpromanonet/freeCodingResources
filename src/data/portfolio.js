@@ -24,7 +24,15 @@ export default [
       title: 'Code Gym',
       cert: 'Sin certificación',
       imgUrl: '/assets/codegym.png',
-      stack: ['Java'],
+      stack: ['Java', 'JVM', 'JWS', 'JSP', 'T-SQL'],
+      link: 'https://www.codegym.cc',
+   },
+
+   {
+      title: 'Free Code Camp (Youtube)',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/freecodecampyt.png',
+      stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'Everything about tech'],
       link: 'https://www.codegym.cc',
    },
 ]
