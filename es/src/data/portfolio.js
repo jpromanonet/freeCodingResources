@@ -48,4 +48,12 @@ export default [
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
       link: 'https://automatetheboringstuff.com/',
    },
+
+   {
+      title: 'Automating the boring stuff with Python',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/automatingwithpython.png',
+      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
+      link: 'https://automatetheboringstuff.com/',
+   },
 ]
