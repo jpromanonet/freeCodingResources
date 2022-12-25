@@ -53,6 +53,6 @@ export default [
       cert: 'Sin certificación',
       imgUrl: '/assets/automatingwithpython.png',
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
-      link: 'https://automatetheboringstuff.com/',
+      link: 'https://inventwithpython.com//',
    },
 ]
