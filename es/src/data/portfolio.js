@@ -53,7 +53,7 @@ export default [
       cert: 'Sin certificación',
       imgUrl: '/assets/inventwithpython.png',
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
-      link: 'https://inventwithpython.com//',
+      link: 'https://inventwithpython.com/',
    },
    {
       title: 'The Big Book of Small Python Projects',
