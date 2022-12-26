@@ -55,4 +55,12 @@ export default [
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
       link: 'https://inventwithpython.com//',
    },
+
+   {
+      title: 'Invent with Python by Al Sweigart',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/inventwithpython.png',
+      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
+      link: 'https://inventwithpython.com//',
+   },
 ]
