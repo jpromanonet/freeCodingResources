@@ -49,7 +49,7 @@ export default [
       link: 'https://automatetheboringstuff.com/',
    },
    {
-      title: 'Invent with Python',
+      title: 'Invent with Python by Al Sweigart',
       cert: 'Sin certificación',
       imgUrl: '/assets/inventwithpython.png',
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
