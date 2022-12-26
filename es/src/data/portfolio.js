@@ -51,7 +51,7 @@ export default [
    {
       title: 'Invent with Python',
       cert: 'Sin certificación',
-      imgUrl: '/assets/automatingwithpython.png',
+      imgUrl: '/assets/inventwithpython.png',
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
       link: 'https://inventwithpython.com//',
    },
