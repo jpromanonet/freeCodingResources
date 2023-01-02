@@ -13,7 +13,7 @@ export default [
    },
    {
       step: '3°',
-      title: 'La vieja confiable (CRUDs)',
+      title: 'La vieja confiable (CRUDLs)',
       details: 
          'Si hay algo que nos van a pedir que hagamos en cualquier trabajo de desarrollador son ABMs (Altas Bajas Modificaciones) o en inglés CRUDL (Create, Read, Update, Delete, List ) y sin duda alguna, Oscar de Develoteca, el master of cruds nos va a enseñar a hacerlos en todos los lenguajes que quieras. ',
    },
