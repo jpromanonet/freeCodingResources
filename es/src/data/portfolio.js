@@ -66,7 +66,21 @@ export default [
       title: 'Beyond the Basic Stuff with Python',
       cert: 'Sin certificación',
       imgUrl: '/assets/beyondpython.jpg',
-      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
+      stack: ['Advanced Python', 'Django', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases', 'Operative System'],
       link: 'https://inventwithpython.com/beyond/',
+   },
+   {
+      title: 'Build your own X',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/buildyourown.png',
+      stack: ['Multiples lenguajes', 'Conocimiento interdisciplinario', 'Senior Developer'],
+      link: 'https://build-your-own-x.vercel.app/',
+   },
+   {
+      title: 'Harvard CS50 Series',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/cs50.png',
+      stack: ['C', 'Python', 'Intro to computer science', 'Javascript', 'IA', 'Game Development'],
+      link: 'https://www.edx.org/cs50',
    },
 ]
