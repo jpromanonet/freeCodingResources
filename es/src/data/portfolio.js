@@ -4,7 +4,7 @@ export default [
       cert: 'Con certificación',
       imgUrl: '/assets/freecodecamp.png',
       stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS'],
-      link: 'https://freecodecamp',
+      link: 'https://freecodecamp.org',
    },
    {
       title: 'The Odin Project',
