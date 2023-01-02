@@ -12,7 +12,6 @@ function Timeline() {
                <TimelineItem 
                   year={item.step}
                   title={item.title}
-                  duration={item.duration}
                   details={item.details}
                />
             ))}
