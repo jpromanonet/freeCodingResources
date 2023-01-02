@@ -32,7 +32,7 @@ export default [
       cert: 'Sin certificación',
       imgUrl: '/assets/freecodecampyt.png',
       stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'Everything about tech'],
-      link: 'https://www.codegym.cc',
+      link: 'https://www.youtube.com/@freecodecamp',
    },
    {
       title: 'Code with Ania Kunow',
