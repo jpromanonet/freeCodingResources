@@ -118,4 +118,11 @@ export default [
       stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL', 'Django', 'Laravel', 'Lumen', 'Code Igniter', 'Vue JS', 'React JS', 'Angular JS'],
       link: 'https://www.youtube.com/@BeauCarnes',
    },
+   {
+      title: 'One Lone Coder',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/one-lone-coder.png',
+      stack: ['C++', 'Game Development', 'Game Engines', 'Retro Games'],
+      link: 'https://www.youtube.com/@javidx9',
+   },
 ]
