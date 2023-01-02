@@ -116,7 +116,7 @@ export default [
       cert: 'Sin certificación',
       imgUrl: '/assets/develoteca.png',
       stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL', 'Django', 'Laravel', 'Lumen', 'Code Igniter', 'Vue JS', 'React JS', 'Angular JS'],
-      link: 'https://www.youtube.com/@BeauCarnes',
+      link: 'https://www.youtube.com/@Develoteca',
    },
    {
       title: 'One Lone Coder',
