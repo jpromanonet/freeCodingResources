@@ -1,8 +1,7 @@
 export default [
    {
       step: '1°',
-      title: 'Fundamentos de programación',
-      duration: '1 Mes',
+      title: 'Fundamentos de programación',,
       details: 
          'Algo va a aca',
    },
