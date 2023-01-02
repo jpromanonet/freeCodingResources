@@ -125,4 +125,11 @@ export default [
       stack: ['C++', 'Game Development', 'Game Engines', 'Retro Games'],
       link: 'https://www.youtube.com/@javidx9',
    },
+   {
+      title: 'Write your own operative systems',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/wyoos.png',
+      stack: ['C++', 'Hardcore development', 'Unix', 'Linux'],
+      link: 'https://www.youtube.com/@writeyourownoperatingsystem',
+   },
 ]
