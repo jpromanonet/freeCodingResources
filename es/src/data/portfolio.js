@@ -35,6 +35,13 @@ export default [
       link: 'https://www.codegym.cc',
    },
    {
+      title: 'Code with Ania Kunow',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/code-with-ania.png',
+      stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'IA', 'Everything about tech'],
+      link: 'https://www.youtube.com/@AniaKubow',
+   },
+   {
       title: 'Teach yourself CS',
       cert: 'Sin certificación',
       imgUrl: '/assets/teachyourselfcs.png',
@@ -108,8 +115,7 @@ export default [
       title: 'Develoteca',
       cert: 'Sin certificación',
       imgUrl: '/assets/develoteca.png',
-      stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL', 'Django', 'Laravel', 'Lumen', 'C'],
+      stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL', 'Django', 'Laravel', 'Lumen', 'Code Igniter', 'Vue JS', 'React JS', 'Angular JS'],
       link: 'https://www.youtube.com/@BeauCarnes',
    },
-]
 ]
