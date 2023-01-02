@@ -13,6 +13,9 @@ function Intro() {
             <br />
             <br />
             Te recomiendo seguir el "Mapa de ruta sugerido" pero si no te sentis comode, arranca por donde más te llame la atención o te genere más curiosidad.
+            <br/>
+            <br/>
+            Esto no es un curso ni un bootcamp, no utiliza ningun stack especifico ni tiene contenido propio (todo el contenido son recursos gratis de terceros) pero el objetivo es formarse a si misme como programador y tener una idea general pero en profundidad de varias tecnologias y lenguajes generando en nosotros mismes la capacidad de aprender lenguajes nuevos en tiempos razonables y comprender el diseño y arquitectura de software creado por alguien más para contribuir valor cuando nos toque trabajar en desarrollo sin perder de vista que aprendimos porque nos hace felices.
          </p>
          <hr/>
       </div>
