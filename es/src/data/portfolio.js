@@ -62,4 +62,11 @@ export default [
       stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
       link: 'https://inventwithpython.com/bigbookpython/',
    },
+   {
+      title: 'Beyond the Basic Stuff with Python',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/beyondpython.jpg',
+      stack: ['Python', 'Flask', 'SQL', 'Pandas', 'Numpy', 'Databases'],
+      link: 'https://inventwithpython.com/beyond/',
+   },
 ]
