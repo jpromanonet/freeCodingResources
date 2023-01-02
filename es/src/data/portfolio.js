@@ -78,9 +78,38 @@ export default [
    },
    {
       title: 'Harvard CS50 Series',
-      cert: 'Sin certificación',
+      cert: 'Con certificación',
       imgUrl: '/assets/cs50.png',
       stack: ['C', 'Python', 'Intro to computer science', 'Javascript', 'IA', 'Game Development'],
       link: 'https://www.edx.org/cs50',
    },
+   {
+      title: 'Coding Interview University',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/coding-university.png',
+      stack: ['C', 'Python', 'Intro to computer science', 'Javascript', 'IA', 'Algorithms'],
+      link: 'https://github.com/jwasham/coding-interview-university',
+   },
+   {
+      title: 'Just Django',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/justdjango.png',
+      stack: ['Python', 'Django', 'Base de Datos', 'Javascript', 'SQL'],
+      link: 'https://www.youtube.com/@JustDjango',
+   },
+   {
+      title: 'Beau Carnes',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/beau.png',
+      stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL'],
+      link: 'https://www.youtube.com/@BeauCarnes',
+   },
+   {
+      title: 'Develoteca',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/develoteca.png',
+      stack: ['Javascript', 'PHP', 'Base de Datos', 'Javascript', 'SQL', 'Django', 'Laravel', 'Lumen', 'C'],
+      link: 'https://www.youtube.com/@BeauCarnes',
+   },
+]
 ]
