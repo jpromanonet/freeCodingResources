@@ -135,7 +135,7 @@ export default [
    {
       title: 'Dev Hints',
       cert: 'Sin certificación',
-      imgUrl: '/assets/wyoos.png',
+      imgUrl: '/assets/devhints.png',
       stack: ['Everything about tech'],
       link: 'https://devhints.io/',
    },
