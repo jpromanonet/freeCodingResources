@@ -141,10 +141,10 @@ export default [
    },
    
    {
-      title: 'Write your own operative systems',
+      title: 'SQL Murder Mistery',
       cert: 'Sin certificación',
       imgUrl: '/assets/wyoos.png',
-      stack: ['C++', 'Hardcore development', 'Unix', 'Linux'],
-      link: 'https://www.youtube.com/@writeyourownoperatingsystem',
+      stack: ['SQL'],
+      link: 'https://mystery.knightlab.com/',
    },
 ]
