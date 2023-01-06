@@ -45,6 +45,6 @@ export default [
       step: 'Extra',
       title: 'Machetes!!!',
       details: 
-         'Recurda siempre que aparte de Googlear, existen los llamados "recursos machetes" en la lista que estan ahi para sacarnos de la duda automaticamente, un ejemplo de ello es "Dev Hints"',
+         'Recorda siempre que aparte de Googlear, existen los llamados "recursos machetes" en la lista que estan ahi para sacarnos de la duda automaticamente, un ejemplo de ello es "Dev Hints" o "SQL Murder Mistery',
    },
 ]

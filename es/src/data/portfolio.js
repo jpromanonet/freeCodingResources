@@ -136,7 +136,7 @@ export default [
       title: 'Dev Hints',
       cert: 'Sin certificación',
       imgUrl: '/assets/devhints.png',
-      stack: ['Everything about tech'],
+      stack: ['Everything about tech', 'C#', 'SQL', 'Bash', 'Ruby', 'JavaScript', 'Python', 'Go', 'Etc'],
       link: 'https://devhints.io/',
    },
    
