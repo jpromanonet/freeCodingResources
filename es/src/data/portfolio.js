@@ -132,4 +132,19 @@ export default [
       stack: ['C++', 'Hardcore development', 'Unix', 'Linux'],
       link: 'https://www.youtube.com/@writeyourownoperatingsystem',
    },
+   {
+      title: 'devhints',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/wyoos.png',
+      stack: ['Everything about tech'],
+      link: 'https://devhints.io/',
+   },
+   
+   {
+      title: 'Write your own operative systems',
+      cert: 'Sin certificación',
+      imgUrl: '/assets/wyoos.png',
+      stack: ['C++', 'Hardcore development', 'Unix', 'Linux'],
+      link: 'https://www.youtube.com/@writeyourownoperatingsystem',
+   },
 ]
