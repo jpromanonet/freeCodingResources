@@ -143,7 +143,7 @@ export default [
    {
       title: 'SQL Murder Mistery',
       cert: 'Sin certificación',
-      imgUrl: '/assets/wyoos.png',
+      imgUrl: '/assets/sqlmurder.png',
       stack: ['SQL'],
       link: 'https://mystery.knightlab.com/',
    },
