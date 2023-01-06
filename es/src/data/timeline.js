@@ -41,4 +41,10 @@ export default [
       details: 
          'Para la etapa final solo voy a escribir "Write your own operative system" y "Build your own X" y con eso me despido <3',
    },
+   {
+      step: 'Extra',
+      title: 'Machetes!!!',
+      details: 
+         'Recurda siempre que aparte de Googlear, existen los llamados "recursos machetes" en la lista que estan ahi para sacarnos de la duda automaticamente, un ejemplo de ello es "Dev Hints"',
+   },
 ]
