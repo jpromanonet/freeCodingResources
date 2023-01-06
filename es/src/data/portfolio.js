@@ -133,7 +133,7 @@ export default [
       link: 'https://www.youtube.com/@writeyourownoperatingsystem',
    },
    {
-      title: 'devhints',
+      title: 'Dev Hints',
       cert: 'Sin certificación',
       imgUrl: '/assets/wyoos.png',
       stack: ['Everything about tech'],
