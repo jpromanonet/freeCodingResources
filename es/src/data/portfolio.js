@@ -139,7 +139,6 @@ export default [
       stack: ['Everything about tech', 'C#', 'SQL', 'Bash', 'Ruby', 'JavaScript', 'Python', 'Go', 'Etc'],
       link: 'https://devhints.io/',
    },
-   
    {
       title: 'SQL Murder Mistery',
       cert: 'Sin certificación',
@@ -147,4 +146,40 @@ export default [
       stack: ['SQL'],
       link: 'https://mystery.knightlab.com/',
    },
+   {
+      title: 'Cisco Networking Academy',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/sqlmurder.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://www.netacad.com/courses/all-courses',
+   },
+   {
+      title: 'University of Helsinski - Moocs',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/sqlmurder.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://www.mooc.fi/en/#courses',
+   },
+   {
+      title: 'Microsoft Virtual Training Days',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/sqlmurder.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://www.microsoft.com/es-es/training-days',
+   },
+   {
+      title: 'Redis University',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/sqlmurder.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://university.redis.com/',
+   },
+   {
+      title: 'Mongo University',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/sqlmurder.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://learn.mongodb.com/catalog',
+   },
+
 ]
