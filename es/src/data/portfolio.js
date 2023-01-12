@@ -181,5 +181,4 @@ export default [
       stack: ['MongoDB', 'Javascript', 'Databases'],
       link: 'https://learn.mongodb.com/catalog',
    },
-
 ]
