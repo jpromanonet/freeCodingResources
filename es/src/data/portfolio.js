@@ -156,7 +156,7 @@ export default [
    {
       title: 'University of Helsinski - Moocs',
       cert: 'Con Certificación',
-      imgUrl: '/assets/sqlmurder.png',
+      imgUrl: '/assets/mooc.png',
       stack: ['Java', 'Python', 'IA', 'DevSecOps', 'DevOps', 'Programming fundamentals', 'Security', 'Docker', 'Haskell'],
       link: 'https://www.mooc.fi/en/#courses',
    },
