@@ -9,7 +9,7 @@ export default [
       step: '2°',
       title: 'Aprender haciendo',
       details: 
-         '¿Hiciste la primera parte y te gusto?, ¡Genial!, es hora de hacer cosas =) y para eso los recursos recomendados son Free Code Camp (hacer el resto de certificaciones y seguir tutoriales del canal de Youtube, el canal de Beau Carnes, el sitio de Sololearn para certificarte en la sintaxis de algunos lenguajes, comenzar The Odin Project o revisar Code Gym para aprender Java ',
+         '¿Hiciste la primera parte y te gusto?, ¡Genial!, es hora de hacer cosas =) y para eso los recursos recomendados son Free Code Camp (hacer el resto de certificaciones y seguir tutoriales del canal de Youtube, el canal de Beau Carnes, el sitio de Sololearn para certificarte en la sintaxis de algunos lenguajes, comenzar The Odin Project o revisar Code Gym para aprender Java, otro gran recurso en esta etapa es Mooc.fi que es el sitio de cursos gratis de la Universidad de Helsinski en Finlandia, la cual ofrece cursos gratis con certificado y que valen puntos de materia para universidades de europa, a su vez tienen una plataforma de ejercicios interactiva que se conecta a tu IDE y te descarga problemas de codigo que se auto-corrigen. ',
    },
    {
       step: '3°',
@@ -27,7 +27,7 @@ export default [
       step: '5°',
       title: 'Momento de ascender',
       details: 
-         '¡Felicitaciones! ya sabes fundamentos de programación y claramente si llegaste hasta aca te encanta programar asi que es momento de tomar una ruta mas solemne y solitaria donde buscamos no solo aumentar tus skills sino hacer proyectos que nos rompan la cabeza y para eso tenemos varios recursos tales como "Coding Interview University", "Beyond The Basic Stuff with Python" o los geniales juegos y motores de juegos de "One Lone Coder" en C++ como para variar un poco',
+         '¡Felicitaciones! ya sabes fundamentos de programación y claramente si llegaste hasta aca te encanta programar asi que es momento de tomar una ruta mas solemne y solitaria donde buscamos no solo aumentar tus skills sino hacer proyectos que nos rompan la cabeza y para eso tenemos varios recursos tales como "Coding Interview University", "Beyond The Basic Stuff with Python" o los geniales juegos y motores de juegos de "One Lone Coder" en C++ como para variar un poco, sin embargo es muy probable que quieras indagar o mejor dicho orientarte a desarrollar software en otras areas del desarrollo y es para eso que estan los recursos como Cisco Networking Academy, Microsoft Training Days, Redis University o Mongo University',
    },
    {
       step: '6°',
