@@ -177,7 +177,7 @@ export default [
    {
       title: 'Mongo University',
       cert: 'Con Certificación',
-      imgUrl: '/assets/sqlmurder.png',
+      imgUrl: '/assets/mongo.png',
       stack: ['MongoDB', 'Javascript', 'Databases'],
       link: 'https://learn.mongodb.com/catalog',
    },
