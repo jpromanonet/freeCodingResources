@@ -149,7 +149,7 @@ export default [
    {
       title: 'Cisco Networking Academy',
       cert: 'Con Certificación',
-      imgUrl: '/assets/sqlmurder.png',
+      imgUrl: '/assets/cisco.png',
       stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
       link: 'https://www.netacad.com/courses/all-courses',
    },
