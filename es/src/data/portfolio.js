@@ -163,14 +163,14 @@ export default [
    {
       title: 'Microsoft Virtual Training Days',
       cert: 'Con Certificación',
-      imgUrl: '/assets/sqlmurder.png',
+      imgUrl: '/assets/trainingdays.png',
       stack: ['C#', '.Net Core', '.Net Framework', 'Azure'],
       link: 'https://www.microsoft.com/es-es/training-days',
    },
    {
       title: 'Redis University',
       cert: 'Con Certificación',
-      imgUrl: '/assets/sqlmurder.png',
+      imgUrl: '/assets/redis.png',
       stack: ['Redis', 'Databases', 'AWS'],
       link: 'https://university.redis.com/',
    },
