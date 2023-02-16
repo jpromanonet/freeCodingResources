@@ -35,7 +35,7 @@ export default [
       link: 'https://www.youtube.com/@freecodecamp',
    },
    {
-      title: 'Code with Ania Kunow',
+      title: 'Code with Ania Kubow',
       cert: 'Sin certificación',
       imgUrl: '/assets/code-with-ania.png',
       stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'Express', 'MongoDB', 'SQL', 'Glitch', 'Git', 'Python', 'AWS', 'IA', 'Everything about tech'],
