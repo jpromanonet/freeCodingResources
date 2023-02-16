@@ -139,12 +139,46 @@ export default [
       stack: ['Everything about tech', 'C#', 'SQL', 'Bash', 'Ruby', 'JavaScript', 'Python', 'Go', 'Etc'],
       link: 'https://devhints.io/',
    },
-   
    {
       title: 'SQL Murder Mistery',
       cert: 'Sin certificación',
       imgUrl: '/assets/sqlmurder.png',
       stack: ['SQL'],
       link: 'https://mystery.knightlab.com/',
+   },
+   {
+      title: 'Cisco Networking Academy',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/cisco.png',
+      stack: ['Networking', 'Security', 'IoT', 'DevSecOps'],
+      link: 'https://www.netacad.com/courses/all-courses',
+   },
+   {
+      title: 'University of Helsinski - Moocs',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/mooc.png',
+      stack: ['Java', 'Python', 'IA', 'DevSecOps', 'DevOps', 'Programming fundamentals', 'Security', 'Docker', 'Haskell'],
+      link: 'https://www.mooc.fi/en/#courses',
+   },
+   {
+      title: 'Microsoft Virtual Training Days',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/trainingdays.png',
+      stack: ['C#', '.Net Core', '.Net Framework', 'Azure'],
+      link: 'https://www.microsoft.com/es-es/training-days',
+   },
+   {
+      title: 'Redis University',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/redis.png',
+      stack: ['Redis', 'Databases', 'AWS'],
+      link: 'https://university.redis.com/',
+   },
+   {
+      title: 'Mongo University',
+      cert: 'Con Certificación',
+      imgUrl: '/assets/mongo.png',
+      stack: ['MongoDB', 'Javascript', 'Databases'],
+      link: 'https://learn.mongodb.com/catalog',
    },
 ]
