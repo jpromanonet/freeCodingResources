@@ -16,7 +16,7 @@ export default [
    {
       title: 'Full Stack Open',
       cert: 'Con certificación',
-      imgUrl: '/assets/theodinproject.png',
+      imgUrl: '/assets/full_stack_open.png',
       stack: ['Node JS', 'JavaScript', 'HTML', 'CSS', 'Git', 'Shell', 'React JS', 'Typescript', 'Next JS', 'Mongo DB', 'GraphQL', 'SQL', 'Testing'],
       link: 'https://www.fullstackopen.com',
    },
