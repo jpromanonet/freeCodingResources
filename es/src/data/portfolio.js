@@ -18,7 +18,7 @@ export default [
       cert: 'Con certificación',
       imgUrl: '/assets/theodinproject.png',
       stack: ['Node JS', 'JavaScript', 'HTML', 'CSS', 'Git', 'Shell', 'React JS', 'Typescript', 'Next JS', 'Mongo DB', 'GraphQL', 'SQL', 'Testing'],
-      link: 'https://www.theodinproject.com',
+      link: 'https://www.fullstackopen.com',
    },
    {
       title: 'Sololearn',
