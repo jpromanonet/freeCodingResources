@@ -14,6 +14,13 @@ export default [
       link: 'https://www.theodinproject.com',
    },
    {
+      title: 'Full Stack Open',
+      cert: 'Con certificación',
+      imgUrl: '/assets/theodinproject.png',
+      stack: ['Node JS', 'JavaScript', 'HTML', 'CSS', 'Git', 'Shell', 'React JS', 'Typescript', 'Next JS', ],
+      link: 'https://www.theodinproject.com',
+   },
+   {
       title: 'Sololearn',
       cert: 'Con certificación',
       imgUrl: '/assets/sololearn.png',
